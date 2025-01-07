@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Irene Shihyun Lim"
+title                    : "Homepage"
 title_separator          : "|"
 subtitle                 : 
-name                     : "Irene"
-description              : "Irene의 블로그입니다."
+name                     : "Irene Shihyun Lim"
+description              : "임시현의 홈페이지입니다."
 url                      : "https://shihyunlim.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Irene"
+  name             : "Irene Shihyun Lim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Creator & Learner"
+  bio              : "임시현"
   location         : "Seoul, South Korea"
   email            :
   links:
